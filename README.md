@@ -37,22 +37,26 @@
 <br>
 
 ```python
-class Ahmed:
-    def __init__(self):
-        self.role = "Full Stack Developer"
-        self.languages_spoken = ["Arabic", "English"]
-        self.pronouns = "He/Him"
+from dataclasses import dataclass, field
 
-    def what_i_do(self):
+@dataclass
+class Ahmed:
+    role: str = "Full Stack Developer"
+    languages: list = field(default_factory=lambda: ["Arabic", "English"])
+
+    def introduce(self):
+        return f"Hi, I'm Ahmed — a {self.role} passionate about building scalable systems."
+
+    def skills(self):
         return {
-            "frontend": "Pixel-perfect, responsive, accessible",
-            "backend": "RESTful, GraphQL, real-time systems",
-            "database": "SQL + NoSQL, whatever fits the problem",
-            "devops": "Docker, CI/CD, cloud deployments"
+            "frontend": ["React", "Next.js"],
+            "backend": ["Node.js", "GraphQL"],
+            "database": ["PostgreSQL", "MongoDB"],
+            "devops": ["Docker", "CI/CD"]
         }
 
-    def what_drives_me(self):
-        return "Turning complex problems into elegant solutions"
+    def mindset(self):
+        return "Turning complex problems into elegant, scalable solutions"
 ```
 
 <br>
