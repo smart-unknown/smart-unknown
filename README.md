@@ -20,7 +20,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/📍%20Egypt-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/🎂%20199X-8ecae6?style=flat-square" />
+<img src="https://img.shields.io/badge/🎂%201993-8ecae6?style=flat-square" />
 <img src="https://img.shields.io/badge/🎓%20CS%20Graduate-ffb703?style=flat-square" />
 <img src="https://img.shields.io/badge/🔮%20Available%20for%20Hire-success?style=flat-square" />
 
