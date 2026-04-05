@@ -15,7 +15,7 @@
 <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
-<a href="mailto:your.email@gmail.com" target="_blank">
+<a href="mailto:ntgi46@proton.me" target="_blank">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://yourportfolio.com" target="_blank">
@@ -123,7 +123,7 @@ class Developer:
 <tr>
 <td width="50%">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/project-1" target="_blank">
+<a href="https://github.com/smart-unknown/project-1" target="_blank">
   <div align="center">
     <img src="https://via.placeholder.com/400x200/0d1b2a/8ecae6?text=Project+1+Screenshot" width="100%" style="border-radius: 10px;" />
     <h3>🚀 Project Name 1</h3>
@@ -144,7 +144,7 @@ class Developer:
 </td>
 <td width="50%">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/project-2" target="_blank">
+<a href="https://github.com/smart-unknown/project-2" target="_blank">
   <div align="center">
     <img src="https://via.placeholder.com/400x200/0d1b2a/8ecae6?text=Project+2+Screenshot" width="100%" style="border-radius: 10px;" />
     <h3>💡 Project Name 2</h3>
@@ -171,7 +171,7 @@ class Developer:
 <tr>
 <td width="50%">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/project-3" target="_blank">
+<a href="https://github.com/smart-unknown/project-3" target="_blank">
   <div align="center">
     <img src="https://via.placeholder.com/400x200/0d1b2a/8ecae6?text=Project+3+Screenshot" width="100%" style="border-radius: 10px;" />
     <h3>🔧 Project Name 3</h3>
@@ -190,7 +190,7 @@ class Developer:
 </td>
 <td width="50%">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/project-4" target="_blank">
+<a href="https://github.com/smart-unknown/project-4" target="_blank">
   <div align="center">
     <img src="https://via.placeholder.com/400x200/0d1b2a/8ecae6?text=Project+4+Screenshot" width="100%" style="border-radius: 10px;" />
     <h3>📱 Project Name 4</h3>
