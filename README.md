@@ -15,7 +15,7 @@
 <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" /></a>
 <a href="https://github.com/smart-unknown" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="mailto:ntgi@proton.me" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0d1b2a?style=flat-square&logo=about.me&logoColor=8ecae6&borderColor=8ecae6" /></a>
+<a href="https://smart-unknown.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0d1b2a?style=flat-square&logo=about.me&logoColor=8ecae6&borderColor=8ecae6" /></a>
 
 <br/>
 
